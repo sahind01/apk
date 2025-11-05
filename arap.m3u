@@ -82,3 +82,31 @@ https://video-s.twimg.com/amplify_video/1906349403734196224/vid/avc1/1712x720/wN
 
 #EXTINF:-1 tvg-name="X Video 4 - 1080p" tvg-logo="https://via.placeholder.com/100x100/1da1f2/fff?text=X4" group-title="X (Twitter)",X Video - 1920x1080
 https://video-s.twimg.com/amplify_video/1986110815204671488/vid/avc1/1920x1080/Qu6FY5foOHDVPFHT.mp4?tag=21
+
+# === YENİ HLS (m3u8) VİDEOLAR ===
+#EXTINF:-1 tvg-name="HLS 1 - KR853" tvg-logo="https://via.placeholder.com/100x100/00ff7f/000?text=H1" group-title="HLS",KR853 - n129.b-cdn.net
+https://n129.b-cdn.net/.VIDEO/KR853/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HLS 2 - KR569" tvg-logo="https://via.placeholder.com/100x100/00ff7f/000?text=H2" group-title="HLS",KR569 - n129.b-cdn.net
+https://n129.b-cdn.net/.VIDEO/KR569/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HLS 3 - KR2300" tvg-logo="https://via.placeholder.com/100x100/00ff7f/000?text=H3" group-title="HLS",KR2300 - n129.b-cdn.net
+https://n129.b-cdn.net/.VIDEO/KR2300/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HLS 4 - KR1824" tvg-logo="https://via.placeholder.com/100x100/00ff7f/000?text=H4" group-title="HLS",KR1824 - n129.b-cdn.net
+https://n129.b-cdn.net/.VIDEO/KR1824/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HLS 5 - KR1012" tvg-logo="https://via.placeholder.com/100x100/00ff7f/000?text=H5" group-title="HLS",KR1012 - n129.b-cdn.net
+https://n129.b-cdn.net/.VIDEO/KR1012/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HLS 6 - 480p Video" tvg-logo="https://via.placeholder.com/100x100/00ff7f/000?text=H6" group-title="HLS",480p - vz-57cae879-de5.b-cdn.net
+https://vz-57cae879-de5.b-cdn.net/d89ca08f-bca8-411a-b879-1ee5e673b4da/480p/video.m3u8
+
+#EXTINF:-1 tvg-name="HLS 7 - avsee.monster 1" tvg-logo="https://via.placeholder.com/100x100/00ff7f/000?text=H7" group-title="HLS",avsee.monster - 34f356ba
+https://23.avsee.monster//n6/vd2/34f356ba63443b7d75c0d5a094003d10/ming.html
+
+#EXTINF:-1 tvg-name="HLS 8 - avsee.monster 2" tvg-logo="https://via.placeholder.com/100x100/00ff7f/000?text=H8" group-title="HLS",avsee.monster - d1e81488
+https://23.avsee.monster//n6/vd2/d1e814881c135e014c7211ebbdac3e78/ming.html
+
+#EXTINF:-1 tvg-name="HLS 9 - webzpage.wooomodi" tvg-logo="https://via.placeholder.com/100x100/00ff7f/000?text=H9" group-title="HLS",2025/11/03 - 49320d3e
+https://webzpage.wooomodi.lol/video/m3u8/2025/11/03/49320d3e/index.m3u8
