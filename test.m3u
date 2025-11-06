@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:-1 tvg-logo="" group-title="",Chaplin TV (Referer ile)
+#EXT-X-HEADERS:Referer=https://justintvnews1.com/
+https://chaplintv2.com/b1/mono.m3u8
