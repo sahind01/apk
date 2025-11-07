@@ -1,5 +1,24 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXTINF:-1 tvg-logo="" group-title="",Chaplin TV (Referer ile)
-#EXT-X-HEADERS:Referer=https://justintvnews1.com/
-https://chaplintv2.com/b1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71o+1o7L0JL._AC_UF1000,1000_QL80_.jpg" group-title="🇹🇷 Komedi",Baldız Baldan Tatlıdır (2006)
+https://ia801409.us.archive.org/15/items/baldiz-baldan-tatlidir/Bald%C4%B1z-Baldan-tatl%C4%B1d%C4%B1r.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8f/Avc%C4%B1_1998.jpg" group-title="🇹🇷 Komedi",Avcı • Şener Şen (1998)
+https://ia801503.us.archive.org/20/items/avci_20221006/Avc%C4%B1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4p4Y7tZ/tavla-beni-komsu.jpg" group-title="🇹🇷 Komedi",Tavla Beni Komşu • Kemal Sunal (1985)
+https://ia801406.us.archive.org/20/items/tavla-beni-komsu/Tavla%20Beni%20Kom%C5%9Fu.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09kK4nK/sibel-kekilli.jpg" group-title="🔞 +18",Sibel Kekilli • Sansürsüz (+18)
+https://ia801407.us.archive.org/17/items/sibel-kekili/Sibel%20Kekili%20Erotik%20izle%20-%20Kekili%20T%C3%BCm%20Filmleri%20-%20Yeti%C5%9Fkin%20(+18)Film%20izle.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7zY6n7Y/disi-kopek.jpg" group-title="🔞 +18",Dişi Köpek • Banu Alkan (+18)
+https://ia601402.us.archive.org/8/items/disi-kopek/Di%C5%9Fi%20K%C3%B6pek.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09kK4nK/koylu-guzeli.jpg" group-title="🔞 +18",Köylü Güzeli • Arzu Okay (+18)
+https://ia801705.us.archive.org/23/items/koylu-guzeli/K%C3%B6yl%C3%BC%20G%C3%BCzeli.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4p4Y7tZ/sev-doya.jpg" group-title="🔞 +18",Sev Doya Doya • Zerrin Egeliler (+18)
+https://ia801501.us.archive.org/23/items/sev-doya/Sev%20Doya%20Doya%20Erotik%20Film%20izle.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7zY6n7Y/cilgin-kiz.jpg" group-title="🔞 +18",Çılgın Kız • Dilber Ay • TAMAMEN Sansürsüz (+18)
+https://ia801506.us.archive.org/18/items/cilgin-kiz/%C3%87%C4%B1lg%C4%B1n%20K%C4%B1z.mp4
