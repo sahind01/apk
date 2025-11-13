@@ -1,0 +1,12 @@
+<video controls width="800">
+  <source src="https://biraz.6781237.xyz/checklist/androstreamlivebs1.m3u8" type="application/x-mpegURL">
+</video>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script>
+  if (Hls.isSupported()) {
+    var video = document.querySelector('video');
+    var hls = new Hls();
+    hls.loadSource('yeni_yayin.m3u8');
+    hls.attachMedia(video);
+  }
+</script>
